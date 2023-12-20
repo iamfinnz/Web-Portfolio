@@ -1,0 +1,138 @@
+.elementor-kit-11{--e-global-color-primary:#28233C;--e-global-color-secondary:#464259;--e-global-color-text:#9A95AE;--e-global-color-accent:#D8D5E2;--e-global-color-873ed1b:#F4F2F8;--e-global-color-6659173:#009EF7;--e-global-color-868f36c:#00BDFB;--e-global-color-a114f08:#F0FAFF;--e-global-typography-primary-font-family:"Plus Jakarta Sans";--e-global-typography-primary-font-size:0px;--e-global-typography-primary-font-weight:700;--e-global-typography-primary-text-transform:none;--e-global-typography-secondary-font-family:"Plus Jakarta Sans";--e-global-typography-secondary-font-size:18px;--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-line-height:28px;--e-global-typography-text-font-family:"Plus Jakarta Sans";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-text-text-transform:none;--e-global-typography-text-font-style:normal;--e-global-typography-text-line-height:26px;--e-global-typography-accent-font-family:"Plus Jakarta Sans";--e-global-typography-accent-font-size:14px;--e-global-typography-accent-font-weight:400;--e-global-typography-accent-text-transform:none;--e-global-typography-accent-line-height:24px;--e-global-typography-8b4dddb-font-family:"Plus Jakarta Sans";--e-global-typography-8b4dddb-font-size:88px;--e-global-typography-8b4dddb-font-weight:700;--e-global-typography-8b4dddb-text-transform:none;--e-global-typography-8b4dddb-line-height:98px;--e-global-typography-f1e3b13-font-family:"Plus Jakarta Sans";--e-global-typography-f1e3b13-font-size:60px;--e-global-typography-f1e3b13-font-weight:700;--e-global-typography-f1e3b13-text-transform:none;--e-global-typography-f1e3b13-line-height:70px;--e-global-typography-c4bb217-font-family:"Plus Jakarta Sans";--e-global-typography-c4bb217-font-size:48px;--e-global-typography-c4bb217-font-weight:700;--e-global-typography-c4bb217-text-transform:none;--e-global-typography-c4bb217-line-height:58px;--e-global-typography-3fe50e1-font-family:"Plus Jakarta Sans";--e-global-typography-3fe50e1-font-size:38px;--e-global-typography-3fe50e1-font-weight:700;--e-global-typography-3fe50e1-text-transform:none;--e-global-typography-3fe50e1-line-height:48px;--e-global-typography-631db53-font-family:"Plus Jakarta Sans";--e-global-typography-631db53-font-size:28px;--e-global-typography-631db53-font-weight:700;--e-global-typography-631db53-text-transform:none;--e-global-typography-631db53-line-height:38px;--e-global-typography-1b0a908-font-family:"Plus Jakarta Sans";--e-global-typography-1b0a908-font-size:20px;--e-global-typography-1b0a908-font-weight:700;--e-global-typography-1b0a908-text-transform:none;--e-global-typography-1b0a908-line-height:30px;--e-global-typography-f781051-font-family:"Plus Jakarta Sans";--e-global-typography-f781051-font-size:16px;--e-global-typography-f781051-font-weight:700;--e-global-typography-f781051-text-transform:none;--e-global-typography-f781051-line-height:26px;--e-global-typography-e3ef601-font-family:"Plus Jakarta Sans";--e-global-typography-e3ef601-font-size:18px;--e-global-typography-e3ef601-font-weight:600;--e-global-typography-e3ef601-text-transform:none;--e-global-typography-e3ef601-line-height:28px;--e-global-typography-fa32dfd-font-family:"Plus Jakarta Sans";--e-global-typography-fa32dfd-font-size:20px;--e-global-typography-fa32dfd-font-weight:500;--e-global-typography-fa32dfd-text-transform:none;--e-global-typography-fa32dfd-line-height:30px;--e-global-typography-bbefdf4-font-family:"Plus Jakarta Sans";--e-global-typography-bbefdf4-font-size:20px;--e-global-typography-bbefdf4-font-weight:600;--e-global-typography-bbefdf4-text-transform:none;--e-global-typography-bbefdf4-line-height:30px;--e-global-typography-cd64d11-font-family:"Plus Jakarta Sans";--e-global-typography-cd64d11-font-size:18px;--e-global-typography-cd64d11-font-weight:700;--e-global-typography-cd64d11-text-transform:capitalize;--e-global-typography-cd64d11-line-height:28px;--e-global-typography-03a738e-font-family:"Plus Jakarta Sans";--e-global-typography-03a738e-font-size:15px;--e-global-typography-03a738e-font-weight:500;--e-global-typography-03a738e-text-transform:none;--e-global-typography-03a738e-line-height:25px;--e-global-typography-09eff18-font-family:"Plus Jakarta Sans";--e-global-typography-09eff18-font-size:14px;--e-global-typography-09eff18-font-weight:600;--e-global-typography-09eff18-text-transform:uppercase;--e-global-typography-09eff18-line-height:24px;--e-global-typography-09eff18-letter-spacing:2px;--e-global-typography-1eec502-font-family:"Plus Jakarta Sans";--e-global-typography-1eec502-font-size:16px;--e-global-typography-1eec502-font-weight:600;--e-global-typography-1eec502-text-transform:capitalize;--e-global-typography-1eec502-line-height:26px;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );text-transform:var( --e-global-typography-text-text-transform );font-style:var( --e-global-typography-text-font-style );line-height:var( --e-global-typography-text-line-height );background-image:url("http://localhost/bwaclasselementor/wp-content/uploads/2023/11/Desktop-Grid.png");background-position:center center;background-repeat:repeat-y;background-size:0px auto;}.elementor-kit-11 p{margin-bottom:16px;}.elementor-kit-11 a{color:var( --e-global-color-6659173 );}.elementor-kit-11 a:hover{color:var( --e-global-color-868f36c );}.elementor-kit-11 h1{color:var( --e-global-color-primary );font-family:var( --e-global-typography-8b4dddb-font-family ), Sans-serif;font-size:var( --e-global-typography-8b4dddb-font-size );font-weight:var( --e-global-typography-8b4dddb-font-weight );text-transform:var( --e-global-typography-8b4dddb-text-transform );line-height:var( --e-global-typography-8b4dddb-line-height );letter-spacing:var( --e-global-typography-8b4dddb-letter-spacing );word-spacing:var( --e-global-typography-8b4dddb-word-spacing );}.elementor-kit-11 h2{color:var( --e-global-color-primary );font-family:var( --e-global-typography-f1e3b13-font-family ), Sans-serif;font-size:var( --e-global-typography-f1e3b13-font-size );font-weight:var( --e-global-typography-f1e3b13-font-weight );text-transform:var( --e-global-typography-f1e3b13-text-transform );line-height:var( --e-global-typography-f1e3b13-line-height );letter-spacing:var( --e-global-typography-f1e3b13-letter-spacing );word-spacing:var( --e-global-typography-f1e3b13-word-spacing );}.elementor-kit-11 h3{color:var( --e-global-color-primary );font-family:var( --e-global-typography-c4bb217-font-family ), Sans-serif;font-size:var( --e-global-typography-c4bb217-font-size );font-weight:var( --e-global-typography-c4bb217-font-weight );text-transform:var( --e-global-typography-c4bb217-text-transform );line-height:var( --e-global-typography-c4bb217-line-height );letter-spacing:var( --e-global-typography-c4bb217-letter-spacing );word-spacing:var( --e-global-typography-c4bb217-word-spacing );}.elementor-kit-11 h4{color:var( --e-global-color-primary );font-family:var( --e-global-typography-3fe50e1-font-family ), Sans-serif;font-size:var( --e-global-typography-3fe50e1-font-size );font-weight:var( --e-global-typography-3fe50e1-font-weight );text-transform:var( --e-global-typography-3fe50e1-text-transform );line-height:var( --e-global-typography-3fe50e1-line-height );letter-spacing:var( --e-global-typography-3fe50e1-letter-spacing );word-spacing:var( --e-global-typography-3fe50e1-word-spacing );}.elementor-kit-11 h5{color:var( --e-global-color-primary );font-family:var( --e-global-typography-631db53-font-family ), Sans-serif;font-size:var( --e-global-typography-631db53-font-size );font-weight:var( --e-global-typography-631db53-font-weight );text-transform:var( --e-global-typography-631db53-text-transform );line-height:var( --e-global-typography-631db53-line-height );letter-spacing:var( --e-global-typography-631db53-letter-spacing );word-spacing:var( --e-global-typography-631db53-word-spacing );}.elementor-kit-11 h6{color:var( --e-global-color-primary );font-family:var( --e-global-typography-1b0a908-font-family ), Sans-serif;font-size:var( --e-global-typography-1b0a908-font-size );font-weight:var( --e-global-typography-1b0a908-font-weight );text-transform:var( --e-global-typography-1b0a908-text-transform );line-height:var( --e-global-typography-1b0a908-line-height );letter-spacing:var( --e-global-typography-1b0a908-letter-spacing );word-spacing:var( --e-global-typography-1b0a908-word-spacing );}.elementor-kit-11 button,.elementor-kit-11 input[type="button"],.elementor-kit-11 input[type="submit"],.elementor-kit-11 .elementor-button{font-family:var( --e-global-typography-cd64d11-font-family ), Sans-serif;font-size:var( --e-global-typography-cd64d11-font-size );font-weight:var( --e-global-typography-cd64d11-font-weight );text-transform:var( --e-global-typography-cd64d11-text-transform );line-height:var( --e-global-typography-cd64d11-line-height );letter-spacing:var( --e-global-typography-cd64d11-letter-spacing );word-spacing:var( --e-global-typography-cd64d11-word-spacing );color:var( --e-global-color-a114f08 );background-color:var( --e-global-color-6659173 );border-radius:12px 12px 12px 12px;}.elementor-kit-11 button:hover,.elementor-kit-11 button:focus,.elementor-kit-11 input[type="button"]:hover,.elementor-kit-11 input[type="button"]:focus,.elementor-kit-11 input[type="submit"]:hover,.elementor-kit-11 input[type="submit"]:focus,.elementor-kit-11 .elementor-button:hover,.elementor-kit-11 .elementor-button:focus{background-color:var( --e-global-color-868f36c );}.elementor-kit-11 img{border-radius:12px 12px 12px 12px;}.elementor-kit-11 input:not([type="button"]):not([type="submit"]),.elementor-kit-11 textarea,.elementor-kit-11 .elementor-field-textual{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );text-transform:var( --e-global-typography-text-text-transform );font-style:var( --e-global-typography-text-font-style );line-height:var( --e-global-typography-text-line-height );color:var( --e-global-color-text );background-color:var( --e-global-color-a114f08 );border-radius:12px 12px 12px 12px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1260px;}.e-con{--container-max-width:1260px;--container-default-padding-block-start:30px;--container-default-padding-inline-end:30px;--container-default-padding-block-end:30px;--container-default-padding-inline-start:30px;}.elementor-widget:not(:last-child){margin-block-end:24px;}.elementor-element{--widgets-spacing:24px 24px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-11 e-page-transition{background-color:#FFBC7D;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-kit-11{--e-global-typography-8b4dddb-font-size:64px;--e-global-typography-8b4dddb-line-height:1.2em;--e-global-typography-f1e3b13-font-size:48px;--e-global-typography-f1e3b13-line-height:1.2em;--e-global-typography-c4bb217-font-size:32px;--e-global-typography-c4bb217-line-height:1.2em;--e-global-typography-3fe50e1-font-size:24px;--e-global-typography-3fe50e1-line-height:1.2em;--e-global-typography-631db53-font-size:20px;--e-global-typography-631db53-line-height:1em;--e-global-typography-1b0a908-font-size:16px;--e-global-typography-1b0a908-line-height:1em;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-11 h1{font-size:var( --e-global-typography-8b4dddb-font-size );line-height:var( --e-global-typography-8b4dddb-line-height );letter-spacing:var( --e-global-typography-8b4dddb-letter-spacing );word-spacing:var( --e-global-typography-8b4dddb-word-spacing );}.elementor-kit-11 h2{font-size:var( --e-global-typography-f1e3b13-font-size );line-height:var( --e-global-typography-f1e3b13-line-height );letter-spacing:var( --e-global-typography-f1e3b13-letter-spacing );word-spacing:var( --e-global-typography-f1e3b13-word-spacing );}.elementor-kit-11 h3{font-size:var( --e-global-typography-c4bb217-font-size );line-height:var( --e-global-typography-c4bb217-line-height );letter-spacing:var( --e-global-typography-c4bb217-letter-spacing );word-spacing:var( --e-global-typography-c4bb217-word-spacing );}.elementor-kit-11 h4{font-size:var( --e-global-typography-3fe50e1-font-size );line-height:var( --e-global-typography-3fe50e1-line-height );letter-spacing:var( --e-global-typography-3fe50e1-letter-spacing );word-spacing:var( --e-global-typography-3fe50e1-word-spacing );}.elementor-kit-11 h5{font-size:var( --e-global-typography-631db53-font-size );line-height:var( --e-global-typography-631db53-line-height );letter-spacing:var( --e-global-typography-631db53-letter-spacing );word-spacing:var( --e-global-typography-631db53-word-spacing );}.elementor-kit-11 h6{font-size:var( --e-global-typography-1b0a908-font-size );line-height:var( --e-global-typography-1b0a908-line-height );letter-spacing:var( --e-global-typography-1b0a908-letter-spacing );word-spacing:var( --e-global-typography-1b0a908-word-spacing );}.elementor-kit-11 button,.elementor-kit-11 input[type="button"],.elementor-kit-11 input[type="submit"],.elementor-kit-11 .elementor-button{font-size:var( --e-global-typography-cd64d11-font-size );line-height:var( --e-global-typography-cd64d11-line-height );letter-spacing:var( --e-global-typography-cd64d11-letter-spacing );word-spacing:var( --e-global-typography-cd64d11-word-spacing );}.elementor-kit-11 input:not([type="button"]):not([type="submit"]),.elementor-kit-11 textarea,.elementor-kit-11 .elementor-field-textual{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-11{--e-global-typography-8b4dddb-font-size:48px;--e-global-typography-f1e3b13-font-size:28px;--e-global-typography-c4bb217-font-size:24px;--e-global-typography-3fe50e1-font-size:22px;--e-global-typography-631db53-font-size:18px;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-11 h1{font-size:var( --e-global-typography-8b4dddb-font-size );line-height:var( --e-global-typography-8b4dddb-line-height );letter-spacing:var( --e-global-typography-8b4dddb-letter-spacing );word-spacing:var( --e-global-typography-8b4dddb-word-spacing );}.elementor-kit-11 h2{font-size:var( --e-global-typography-f1e3b13-font-size );line-height:var( --e-global-typography-f1e3b13-line-height );letter-spacing:var( --e-global-typography-f1e3b13-letter-spacing );word-spacing:var( --e-global-typography-f1e3b13-word-spacing );}.elementor-kit-11 h3{font-size:var( --e-global-typography-c4bb217-font-size );line-height:var( --e-global-typography-c4bb217-line-height );letter-spacing:var( --e-global-typography-c4bb217-letter-spacing );word-spacing:var( --e-global-typography-c4bb217-word-spacing );}.elementor-kit-11 h4{font-size:var( --e-global-typography-3fe50e1-font-size );line-height:var( --e-global-typography-3fe50e1-line-height );letter-spacing:var( --e-global-typography-3fe50e1-letter-spacing );word-spacing:var( --e-global-typography-3fe50e1-word-spacing );}.elementor-kit-11 h5{font-size:var( --e-global-typography-631db53-font-size );line-height:var( --e-global-typography-631db53-line-height );letter-spacing:var( --e-global-typography-631db53-letter-spacing );word-spacing:var( --e-global-typography-631db53-word-spacing );}.elementor-kit-11 h6{font-size:var( --e-global-typography-1b0a908-font-size );line-height:var( --e-global-typography-1b0a908-line-height );letter-spacing:var( --e-global-typography-1b0a908-letter-spacing );word-spacing:var( --e-global-typography-1b0a908-word-spacing );}.elementor-kit-11 button,.elementor-kit-11 input[type="button"],.elementor-kit-11 input[type="submit"],.elementor-kit-11 .elementor-button{font-size:var( --e-global-typography-cd64d11-font-size );line-height:var( --e-global-typography-cd64d11-line-height );letter-spacing:var( --e-global-typography-cd64d11-letter-spacing );word-spacing:var( --e-global-typography-cd64d11-word-spacing );}.elementor-kit-11 input:not([type="button"]):not([type="submit"]),.elementor-kit-11 textarea,.elementor-kit-11 .elementor-field-textual{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS *//* BUTTON RESET */
+.elementor-kit-11 .elementor-button.elementor-size-xs {
+    padding: 12px 22px;
+}
+.elementor-kit-11 .elementor-button.elementor-size-sm {
+    padding: 18px 32px;
+}
+.elementor-kit-11 .elementor-button.elementor-size-md {
+    padding: 24px 40px;
+}
+.elementor-kit-11 .elementor-button.elementor-size-lg {
+    padding: 28px 48px;
+}
+.elementor-kit-11 .elementor-button.elementor-size-xl {
+    padding: 34px 56px;
+}
+.elementor-kit-11 .elementor-button-icon {
+    display: flex;
+}
+@media (min-width: 320px) and (max-width: 767px) {
+    .elementor-kit-11 .elementor-button.elementor-size-sm {
+    padding: 12px 24px;
+    }
+}
+/* Warnain title heading*/
+.highlight-heading {
+    position: relative;
+}
+.highlight-heading:before {
+    content: "";
+    position: absolute;
+    background-color: var(--e-global-color-6659173);
+    width: 100%;
+    height: .5em;
+    z-index: -1;
+    bottom: 0;
+    left: 48%;
+    transform: translate(-50%)
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: italic;
+	font-weight: 800;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: italic;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: italic;
+	font-weight: 600;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: italic;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: italic;
+	font-weight: 200;
+	font-display: auto;
+	src: url('http://localhost/bwaclasselementor/wp-content/uploads/2023/12/PlusJakartaSans-ExtraLightItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
